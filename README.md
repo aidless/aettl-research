@@ -1,4 +1,5 @@
 # Multi-Modal Emergent Policy Contagion (MM-EPC) — SUPERSEDED SNAPSHOT
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  [![Data](https://img.shields.io/badge/data-CC--BY--4.0-lightgrey.svg)](LICENSE)
 
 > ⚠️ **已归档快照（2026-10-03 标注）**：本仓库是本项目的**早期版本**，最终版在
 > **[github.com/aidless/mm-epc](https://github.com/aidless/mm-epc)**，以该仓 README 的结论为准。
@@ -145,3 +146,13 @@ GitHub: [@aidless](https://github.com/aidless)
 ---
 
 *Liu Zewen (刘泽文) — B.Eng. Software Engineering 2026, Qilu Institute of Technology*
+
+## License
+
+Code is MIT-licensed ([LICENSE](LICENSE)). AE-TTL releases the experiment outputs and paper sources under
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+
+GitHub's license detector reports this repository as `NOASSERTION` because it reads
+a single SPDX id per repository and this one carries two. The split is deliberate:
+the code stays permissively licensed so it can be reused, and the research material
+stays attributable so a citation is required.
